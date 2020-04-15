@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="DELETE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content/>
+        <function_name>Default GET</function_name>
+        <http_method>post</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>test [ Default GET ]</qualified_name>
+        <rest_endpoint>http://awssnowintegration-dev.us-east-1.elasticbeanstalk.com/api/cloudformation/create-with-parameters/</rest_endpoint>
+        <rest_message display_value="test">972c9e0e1b84501059c2dc6cdc4bcb20</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-09 23:41:20</sys_created_on>
+        <sys_id>358c560e1b84501059c2dc6cdc4bcb00</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Default GET</sys_name>
+        <sys_package display_value="TTG2" source="x_320846_ttg2">1aa5c16f1b32001059c2dc6cdc4bcb5d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TTG2">1aa5c16f1b32001059c2dc6cdc4bcb5d</sys_scope>
+        <sys_update_name>sys_rest_message_fn_358c560e1b84501059c2dc6cdc4bcb00</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-09 23:41:44</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="TTG2">1aa5c16f1b32001059c2dc6cdc4bcb5d</application>
+        <file_path/>
+        <instance_id>a3bdb7a8db571b00ff27d5b0cf961981</instance_id>
+        <instance_name>dev64299</instance_name>
+        <name>sys_rest_message_fn_358c560e1b84501059c2dc6cdc4bcb00</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn"><sys_rest_message_fn action="INSERT_OR_UPDATE"><authentication_type>inherit_from_parent</authentication_type><basic_auth_password/><basic_auth_profile/><basic_auth_user/><content/><function_name>Default GET</function_name><http_method>post</http_method><lock>false</lock><oauth2_profile/><protocol_name/><qualified_name>test [ Default GET ]</qualified_name><rest_endpoint>http://awssnowintegration-dev.us-east-1.elasticbeanstalk.com/api/cloudformation/create-with-parameters/</rest_endpoint><rest_message display_value="test">972c9e0e1b84501059c2dc6cdc4bcb20</rest_message><sys_class_name>sys_rest_message_fn</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-04-09 23:41:20</sys_created_on><sys_id>358c560e1b84501059c2dc6cdc4bcb00</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Default GET</sys_name><sys_package display_value="TTG2" source="x_320846_ttg2">1aa5c16f1b32001059c2dc6cdc4bcb5d</sys_package><sys_policy/><sys_scope display_value="TTG2">1aa5c16f1b32001059c2dc6cdc4bcb5d</sys_scope><sys_update_name>sys_rest_message_fn_358c560e1b84501059c2dc6cdc4bcb00</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-04-09 23:41:44</sys_updated_on><use_basic_auth>false</use_basic_auth><use_mid_server/><use_mutual_auth>false</use_mutual_auth></sys_rest_message_fn></record_update>]]></payload>
+        <payload_hash>-270640341</payload_hash>
+        <record_name>Default GET</record_name>
+        <reverted_from/>
+        <source>66a5c5e31b36001059c2dc6cdc4bcb1d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-09 23:41:44</sys_created_on>
+        <sys_id>a39c564e1b84501059c2dc6cdc4bcb11</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171615221990000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-09 23:41:44</sys_updated_on>
+        <type>HTTP Method</type>
+        <update_guid>2f9c564e66845010916b252657895410</update_guid>
+        <update_guid_history>2f9c564e66845010916b252657895410:-270640341,b18c560e568450101baf0795d7aa6d02:-979898537</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-09 23:43:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_rest_message_fn">sys_rest_message_fn</sys_db_object>
+        <sys_id>0edbcb05d0734d519532dabaa6182981</sys_id>
+        <sys_metadata>358c560e1b84501059c2dc6cdc4bcb00</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Default GET</sys_name>
+        <sys_package display_value="TTG2" source="x_320846_ttg2">1aa5c16f1b32001059c2dc6cdc4bcb5d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="TTG2">1aa5c16f1b32001059c2dc6cdc4bcb5d</sys_scope>
+        <sys_scope_delete display_value="">118f38ddaf9d493096806d037b7ecb79</sys_scope_delete>
+        <sys_update_name>sys_rest_message_fn_358c560e1b84501059c2dc6cdc4bcb00</sys_update_name>
+        <sys_update_version display_value="sys_rest_message_fn_358c560e1b84501059c2dc6cdc4bcb00">a39c564e1b84501059c2dc6cdc4bcb11</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-09 23:43:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
